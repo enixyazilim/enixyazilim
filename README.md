@@ -1,8 +1,8 @@
 <div align="center">
-  <!-- Dinamik Dalgalı Başlık -->
+  <!-- Dynamic Waving Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,20&height=200&section=header&text=Enix%20Yazılım&fontSize=42&fontAlignY=35&animation=fadeIn" width="100%"/>
 
-  <!-- Daktilo Animasyonu -->
+  <!-- Typing SVG Animation -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Low-Level+%26+Systems+Software+Developer;High-Performance+C%2B%2B20+%7C+Windows+Internals;Modern+Desktop+Apps+(TypeScript+%2F+Vue);Reverse+Engineering+%26+Core+Architecture" alt="Typing SVG" />
   </a>
@@ -18,22 +18,22 @@
 
 ---
 
-### ⚡ Hakkımda
+### ⚡ About Me
 
-- 💻 **Sistem & Performans:** Modern C++20, Windows API & internals, bellek optimizasyonu ve düşük gecikmeli çekirdek mimarileri.
-- 🎨 **Masaüstü & Arayüz:** TypeScript & Vue tabanlı modern masaüstü uygulamaları ve Qt/QML geliştirme.
-- 🔐 **Altyapı & Güvenlik:** Kriptografik mimariler (ChaCha20, X25519), ağ protokolleri ve sunucu çekirdekleri.
-- 📍 **Konum:** Türkiye 🇹🇷
+- 💻 **Systems & Performance:** Modern C++20, Windows API & internals, low-level memory optimization, and low-latency core architectures.
+- 🎨 **Desktop & UI:** Modern desktop applications built with TypeScript & Vue.js, along with Qt/QML client development.
+- 🔐 **Security & Infrastructure:** Cryptographic protocols (ChaCha20-Poly1305, X25519), custom networking, and high-performance server cores.
+- 📍 **Based in:** Turkey 🇹🇷
 
 ---
 
-### 📌 Öne Çıkan Projeler
+### 📌 Featured Projects
 
 <table>
   <tr>
     <td width="50%">
       <h3 align="center"><a href="https://github.com/enixyazilim/MemStand">⚡ MemStand</a></h3>
-      <p align="center">Pure C++20 ile yazılmış, 0.50ms yüksek hassasiyetli Windows sistem zamanlayıcısı ve donanım duyarlı standby bellek yöneticisi.</p>
+      <p align="center">High-precision 0.50ms Windows system timer and hardware-aware intelligent standby memory manager in pure C++20.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/C++20-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
         <img src="https://img.shields.io/badge/Windows_API-0078D6?style=flat-square&logo=windows&logoColor=white"/>
@@ -41,7 +41,7 @@
     </td>
     <td width="50%">
       <h3 align="center"><a href="https://github.com/enixyazilim/EnixMusic">🎵 EnixMusic</a></h3>
-      <p align="center">YouTube Music için modern, hafif ve zengin özellikli masaüstü istemcisi.</p>
+      <p align="center">A modern, feature-packed, and lightweight desktop client for YouTube Music built with TypeScript & Vue.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
@@ -52,7 +52,7 @@
 
 ---
 
-### 🛠️ Teknolojiler & Araçlar
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,python,ts,js,vue,qt,cmake,docker,git,linux,windows,visualstudio,vscode" alt="Skills" />
@@ -60,7 +60,7 @@
 
 ---
 
-### 📊 GitHub İstatistikleri
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=enixyazilim&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
