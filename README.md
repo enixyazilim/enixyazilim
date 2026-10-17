@@ -63,7 +63,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enixyazilim&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=enixyazilim&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=enixyazilim&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
 </div>
 
